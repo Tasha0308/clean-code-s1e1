@@ -163,7 +163,7 @@ button {
 
 /* Completed */
 
-.task-items_completed-tasks .task-item__label {
+#completed-tasks .task-item__label {
   text-decoration: line-through;
   color: #888;
 }
